@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974743574226",
+    "project_id": "statemanagementflutter",
+    "storage_bucket": "statemanagementflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974743574226:android:a288c689e3970993183f0b",
+        "android_client_info": {
+          "package_name": "franmoraes.state_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974743574226-1k9i0bb7ngqe7okseh7v75i73iljm8ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "franmoraes.state_management",
+            "certificate_hash": "4ea482a01e69a28d96b3c7c63eea1d9099e41c89"
+          }
+        },
+        {
+          "client_id": "974743574226-dn8t5t3s9e4ue6rpqplrhcad93fscjsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJ4Hw4hOssm8UOwPZoEkblTVUi8xkViQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974743574226-dn8t5t3s9e4ue6rpqplrhcad93fscjsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
